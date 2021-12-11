@@ -1,4 +1,6 @@
-create database db_Zer@Dengue; 
+--Utilizamos a seguinte informação para crição do db.
+
+create database db_Zer@Dengue; --Utilizamos
 
 USE db_Zer@Dengue
  
