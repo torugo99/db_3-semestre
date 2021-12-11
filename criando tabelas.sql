@@ -1,6 +1,6 @@
-create database db_zer@dengue;
-
-USE db_zer@dengue;
+USE db_zer@dengue
+ 
+--Criando cada tabela que iremos utilizar no sistema para salvar os registros
 
 CREATE TABLE CT_USUARIO
 (
