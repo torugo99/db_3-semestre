@@ -85,6 +85,5 @@ CREATE TABLE COMENTARIOS
 	FOREIGN KEY (ID_POST) REFERENCES PT_POST (ID_POST)
 );
           
-- name: Start SqlServer
-uses: 280780363/sqlserver-action@v1.0
+
 
