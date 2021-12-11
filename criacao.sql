@@ -1,3 +1,5 @@
+create database db_Zer@Dengue; 
+
 USE db_Zer@Dengue
  
 --Criando cada tabela que iremos utilizar no sistema para salvar os registros
