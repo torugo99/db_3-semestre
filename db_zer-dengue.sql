@@ -1,5 +1,3 @@
-create database db_zer@dengue;
-
 USE db_zer@dengue;
 
 CREATE TABLE CT_USUARIO
