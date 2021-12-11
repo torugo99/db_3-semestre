@@ -1,4 +1,4 @@
-create database db_zer@dengue
+create database db_zerodengue;
 
 - name: Start SqlServer
   # You may pin to the exact commit or the version.
