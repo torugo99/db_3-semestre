@@ -1,0 +1,11 @@
+create table db_zer@dengue
+
+- name: Start SqlServer
+  # You may pin to the exact commit or the version.
+  # uses: 280780363/sqlserver-action@287d9e23fa7290f1a7d492ecd949291944f81c21
+  uses: 280780363/sqlserver-action@v1.0
+  with:
+    # ACCEPT_EULA confirms your acceptance of the End-User Licensing Agreement.
+    accept eula: 
+    # SA_PASSWORD - sa password, default SqlSever123123
+    sa password: # optional, default is SqlSever123123
